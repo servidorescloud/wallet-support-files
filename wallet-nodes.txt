@@ -2,4 +2,4 @@ remote-nbr-hydra.niobioco.in:8314
 remote-nbr-002.niobioco.in:8314
 node0001.niobiocash.nl:8314
 node0002.niobiocash.nl:8314
-niobionode.ddns.com.br:8314
+remote-extra-001.niobioco.in:8314
